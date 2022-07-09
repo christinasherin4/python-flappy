@@ -1,0 +1,23 @@
+Projects:
+1.Machine Learning
+  A.Classify images
+  B.Movie Recommendation
+  C.
+  D.
+  E.
+
+2.MERN STACK
+
+3.Web development
+
+
+4.Covid tracer app
+
+
+5.AWS cloud computing
+
+
+6.Portfolio website
+
+
+7.pygame
